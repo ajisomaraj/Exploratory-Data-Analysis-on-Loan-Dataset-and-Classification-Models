@@ -1,6 +1,7 @@
 # Exploratory-Data-Analysis-on-Loan-Dataset-and-Classification-Models
 
-We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from here or just use the csv already provided. It's recommended you use the csv provided as it has been cleaned of NA values.
+We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. 
+![lending_club_logo](https://user-images.githubusercontent.com/18497243/39440895-f82498f2-4c71-11e8-877e-ae2230a57e25.png)
 
 Here are what the columns represent:
 
@@ -17,3 +18,6 @@ revol.util: The borrower's revolving line utilization rate (the amount of the cr
 inq.last.6mths: The borrower's number of inquiries by creditors in the last 6 months.
 delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
 pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+
+
+![business-loan](https://user-images.githubusercontent.com/18497243/39440914-05a6e05c-4c72-11e8-9a15-f5b8c304edb2.jpeg)
